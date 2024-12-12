@@ -1,11 +1,4 @@
 {
-<<<<<<< HEAD
   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
   "recommendations": ["angular.ng-template"]
 }
-=======
-    "recommendations": [
-        "codeium.codeium"
-    ]
-}
->>>>>>> 762738e95f792013effdd040d35f84c1286e21b1
